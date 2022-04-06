@@ -1,0 +1,78 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    border: 2px solid black;
+    width: 30%;
+    height: 120%;
+    margin: 20px 20px;
+    padding: 20px;
+    position: absolute; left: 40%;
+}
+.login{
+    display: flex;
+}
+
+#logo{
+    width: 80px;
+    height: 80px;
+    margin-left: 100px;
+}
+h3{
+    position: absolute;
+    top: 80px; left: 30px;
+}
+p{
+    width: 60%;
+    margin-top: 20%;
+}
+.mobile{
+    display: flex;
+    margin: 10px 20px;
+}
+#email{
+    color: #00bbf2;
+    width: 25%;
+    margin-left: 10px;
+    font-size: 80%;
+}
+#number{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+button{
+    width: 90%;
+    height: 50px;
+    background-color: #00bbf2;
+    color: white;
+}
+#terms{
+    color: grey;
+    width: 100%;
+    margin-top: 2%;
+    
+}
+#num{
+    font-size: large;
+    margin-bottom: 20px;
+    
+}
+h4{
+    color: black;
+    padding: 20px;
+}
+.footer{
+    display: flex;
+}
+#last{
+    margin-left: 120px;
+}
+#img{
+    width: 50px;
+    height: 30px;
+}
